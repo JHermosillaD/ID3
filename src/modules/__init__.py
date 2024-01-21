@@ -1,3 +1,3 @@
 # ID3 implementation
 
-__version__ = "1.0dev"
+__version__ = "1.0"
