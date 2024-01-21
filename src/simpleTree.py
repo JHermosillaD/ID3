@@ -2,8 +2,9 @@
 
 from modules import __version__
 from modules.console import interface_class
-from modules.id3 import id3_class
 from modules.plottree import plotTree_class
+from modules.id3 import id3_class
+
 
 def main():    
     # Load dataset
